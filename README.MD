@@ -70,8 +70,7 @@ This project demonstrates a **modern data lakehouse architecture** for real-time
 1. **Clone and configure**
    ```bash
    git clone https://github.com/SWARAJ-KADU/Wikipedia_real_time_data_events.git
-   cd wikipedia-realtime-analytics
-   cp .env.example .env
+   cd Wikipedia_real_time_data_events
    ```
 
 2. **Start infrastructure**
