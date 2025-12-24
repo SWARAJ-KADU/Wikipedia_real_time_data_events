@@ -29,7 +29,7 @@ This project demonstrates a **modern data lakehouse architecture** for real-time
 
 ## 🏗️ Architecture
 
-![alt text](image.png)
+![alt text](Architecture_Diagram.png)
 
 ### Data Flow
 1. **Ingestion**: Wikipedia Recent Changes API → Kafka
@@ -40,7 +40,7 @@ This project demonstrates a **modern data lakehouse architecture** for real-time
 
 ## Sample Dashboard
 
-![alt text](image-1.png)
+![alt text](wiki-events-dashboard-2025-12-24T06-52-48.576Z.jpg)
 
 ---
 
