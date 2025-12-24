@@ -1,0 +1,1 @@
+from ..streaming.iceberg_tables import create_tables

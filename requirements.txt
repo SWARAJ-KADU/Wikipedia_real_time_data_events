@@ -1,0 +1,6 @@
+kafka-python
+python-dotenv
+requests
+sseclient-py
+pyspark==3.5.0
+apache-airflow==3.1.5
