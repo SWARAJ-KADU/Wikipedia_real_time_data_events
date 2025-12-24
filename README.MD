@@ -50,6 +50,10 @@ This project demonstrates a **modern data lakehouse architecture** for real-time
 
 ![alt text](image.png)
 
+## Sample Dashboard
+
+![alt text](image-1.png)
+
 ## ✨ Features
 
 ### Real-Time Data Processing
